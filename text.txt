@@ -1,12 +1,10 @@
-<<<<<<< HEAD
+line 1
+lie 2
 Line one
 z
 z
-z
 
-=======
 line one
 z
 line tow
 x
->>>>>>> feat1

@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Line one
 z
 z
 z
 
+=======
+line one
+z
+line tow
+x
+>>>>>>> feat1
